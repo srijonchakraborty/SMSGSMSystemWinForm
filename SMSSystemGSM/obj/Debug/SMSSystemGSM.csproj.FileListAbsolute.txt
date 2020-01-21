@@ -1,0 +1,17 @@
+C:\Users\srijon\Downloads\GSMSMSExampleConsoleApplication-master\GSMSMSExampleConsoleApplication-master\SMSSystemGSM\bin\Debug\SMSSystemGSM.exe.config
+C:\Users\srijon\Downloads\GSMSMSExampleConsoleApplication-master\GSMSMSExampleConsoleApplication-master\SMSSystemGSM\bin\Debug\SMSSystemGSM.exe
+C:\Users\srijon\Downloads\GSMSMSExampleConsoleApplication-master\GSMSMSExampleConsoleApplication-master\SMSSystemGSM\bin\Debug\SMSSystemGSM.pdb
+C:\Users\srijon\Downloads\GSMSMSExampleConsoleApplication-master\GSMSMSExampleConsoleApplication-master\SMSSystemGSM\obj\Debug\SMSSystemGSM.csprojResolveAssemblyReference.cache
+C:\Users\srijon\Downloads\GSMSMSExampleConsoleApplication-master\GSMSMSExampleConsoleApplication-master\SMSSystemGSM\obj\Debug\SMSSystemGSM.MainView.resources
+C:\Users\srijon\Downloads\GSMSMSExampleConsoleApplication-master\GSMSMSExampleConsoleApplication-master\SMSSystemGSM\obj\Debug\SMSSystemGSM.Properties.Resources.resources
+C:\Users\srijon\Downloads\GSMSMSExampleConsoleApplication-master\GSMSMSExampleConsoleApplication-master\SMSSystemGSM\obj\Debug\SMSSystemGSM.csproj.GenerateResource.Cache
+C:\Users\srijon\Downloads\GSMSMSExampleConsoleApplication-master\GSMSMSExampleConsoleApplication-master\SMSSystemGSM\obj\Debug\SMSSystemGSM.exe
+C:\Users\srijon\Downloads\GSMSMSExampleConsoleApplication-master\GSMSMSExampleConsoleApplication-master\SMSSystemGSM\obj\Debug\SMSSystemGSM.pdb
+F:\SMSGSMSystem\SMSSystemGSM\bin\Debug\SMSSystemGSM.exe.config
+F:\SMSGSMSystem\SMSSystemGSM\obj\Debug\SMSSystemGSM.exe
+F:\SMSGSMSystem\SMSSystemGSM\obj\Debug\SMSSystemGSM.pdb
+F:\SMSGSMSystem\SMSSystemGSM\bin\Debug\SMSSystemGSM.exe
+F:\SMSGSMSystem\SMSSystemGSM\bin\Debug\SMSSystemGSM.pdb
+F:\SMSGSMSystem\SMSSystemGSM\obj\Debug\SMSSystemGSM.MainView.resources
+F:\SMSGSMSystem\SMSSystemGSM\obj\Debug\SMSSystemGSM.Properties.Resources.resources
+F:\SMSGSMSystem\SMSSystemGSM\obj\Debug\SMSSystemGSM.csproj.GenerateResource.Cache
